@@ -1,2 +1,4 @@
-verticals = {}
+verticals = {
+    'VCF': 'Venture Capital'
+}
 
